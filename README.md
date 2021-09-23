@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Victor! 👋
 
-<!--
-**vgarmes/vgarmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Front End Developer based in Copenhagen, 🇩🇰 Denmark. I'm currently freelancing but I'm open for full-time positions.
 
-Here are some ideas to get you started:
+## Current projects
+> ⚡️ [Portfolio](https://github.com/vgarmes/portfolio-v2) - I'm currently working on the second iteration of my portfolio using React and Gatsby.<br/>
+> 🎮 [My Game Library](https://github.com/vgarmes/my-game-library) - A web app to keep track of videogame collections, on continuous development.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Know more about me... 
+🎮 I'm an avid gamer, from retro to current gen. <br/>
+☕️ Coffee lover <br/>
+🏃🏻 Runner <br/>
+
+## Connect with Me
+- [Portfolio](https://vgarmes.github.io/portfolio/) <br/>
+- [Instagram](https://www.instagram.com/vgmestre) <br/>
+- [Linkedin](https://www.linkedin.com/in/vgmestre/) <br/>
+- [Twitter](https://twitter.com/vgmestre) <br/>

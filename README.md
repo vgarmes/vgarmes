@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor! 👋
 
-I'm a self-taught Front End Developer based in Copenhagen, 🇩🇰 Denmark. I'm currently freelancing but I'm open for full-time positions.
+I'm a self-taught Front End Developer based in Copenhagen, 🇩🇰 Denmark. I'm currently freelancing but I'm open to full-time positions.
 
 ## Current projects
 > ⚡️ [Portfolio](https://github.com/vgarmes/portfolio-v2) - I'm currently working on the second iteration of my portfolio using React and Gatsby.<br/>

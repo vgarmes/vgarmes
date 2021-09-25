@@ -4,7 +4,7 @@ I'm a self-taught Front End Developer based in Copenhagen, 🇩🇰 Denmark. I'm
 
 ## Current projects
 > ⚡️ [Portfolio](https://github.com/vgarmes/portfolio-v2) - I'm currently working on the second iteration of my portfolio using React and Gatsby.<br/>
-> 🎮 [My Game Library](https://github.com/vgarmes/my-game-library) - A web app to keep track of videogame collections, on continuous development.<br/>
+> 🎮 [My Game Library](https://github.com/vgarmes/my-game-library) - A web app to keep track of videogame collections, which I started developing in Ruby on Rails a while back and I intend to perform some major updates soon.<br/>
 
 ## Know more about me... 
 🎮 I'm an avid gamer, from retro to current gen. <br/>

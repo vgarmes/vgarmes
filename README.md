@@ -6,7 +6,7 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark.
 - [ ] Three.js / React Three Fiber
 - [ ] React Native / Expo
 - [ ] GBDK / C (GameBoy development)
-- [ ] Rust
+- [ ] Unity / Godot
 - [ ] Typescript (become more proficient)
 
 ## Know more about me... 

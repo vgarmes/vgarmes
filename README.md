@@ -1,11 +1,18 @@
 ### Hi there, I'm Victor! 👋
 
-I'm a self-taught Front End Developer based in Copenhagen, 🇩🇰 Denmark.
+I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark.
+
+## Technologies I want to learn in 2023
+- [ ] Three.js / React Three Fiber
+- [ ] React Native / Expo
+- [ ] GBDK / C (GameBoy development)
+- [ ] Rust
+- [ ] Typescript (become more proficient)
 
 ## Know more about me... 
-🎮 I'm an avid gamer, from retro to current gen. <br/>
+🎮 Avid gamer, from retro to current gen. <br/>
 ☕️ Coffee lover <br/>
-🏃🏻 Runner <br/>
+🏃🏻 Casual runner <br/>
 
 ## Connect with Me
 - [Portfolio](https://vgarmes.github.io/portfolio/) <br/>

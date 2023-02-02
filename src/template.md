@@ -1,3 +1,9 @@
+<style>
+  a::hover {
+    text-decoration: none
+  }
+</style>
+
 ### Hi there, I'm Victor! 👋
 
 I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am an 🎮 avid gamer, ☕️ coffee lover and 🏃🏻 casual runner

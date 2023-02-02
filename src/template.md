@@ -14,6 +14,8 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am
 
 %{{latest_steam}}
 
+Do you want to know how I built this? Check my repo: https://github.com/vgarmes/steam-scraper
+
 ## Connect with Me
 
 - [Portfolio](https://vgarmes.github.io/portfolio/) <br/>

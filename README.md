@@ -10,6 +10,16 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am
 - [ ] Unity / Godot
 - [ ] Typescript (become more proficient)
 
+### 🎮 What I am playing right now on Steam!
+
+<a href="https://steamcommunity.com/app/598550" target="_blank">
+    <img src="https://cdn.akamai.steamstatic.com/steam/apps/598550/capsule_231x87.jpg"} alt="Huntdown" />
+  </a><a href="https://steamcommunity.com/app/239030" target="_blank">
+    <img src="https://cdn.akamai.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"} alt="Papers, Please" />
+  </a><a href="https://steamcommunity.com/app/1118310" target="_blank">
+    <img src="https://cdn.akamai.steamstatic.com/steam/apps/1118310/capsule_231x87.jpg"} alt="RetroArch" />
+  </a>
+
 ## Connect with Me
 
 - [Portfolio](https://vgarmes.github.io/portfolio/) <br/>

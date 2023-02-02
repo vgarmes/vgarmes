@@ -10,6 +10,10 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am
 - [ ] Unity / Godot
 - [ ] Typescript (become more proficient)
 
+### 🎮 What I am playing right now on Steam!
+
+%{{latest_steam}}
+
 ## Connect with Me
 
 - [Portfolio](https://vgarmes.github.io/portfolio/) <br/>

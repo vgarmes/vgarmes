@@ -9,7 +9,7 @@ async function getSteamData() {
 }
 
 function generateSteamHTML(title, imgSrc, link) {
-  return `<a href="${link}" target="_blank">
+  return `<a href="${link}" target="_blank" style="hover:text-decoration:none;">
     <img src="${imgSrc}"} alt="${title}" />
   </a>`;
 }

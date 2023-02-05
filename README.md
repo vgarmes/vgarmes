@@ -13,11 +13,11 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am
 ### 🎮 What I am playing right now on Steam!
 
 <a href="https://steamcommunity.com/app/598550" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/598550/capsule_231x87.jpg"} alt="Huntdown" />
+    <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/598550/capsule_231x87.jpg"} alt="Huntdown" />
   </a><a href="https://steamcommunity.com/app/239030" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"} alt="Papers, Please" />
+    <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"} alt="Papers, Please" />
   </a><a href="https://steamcommunity.com/app/1118310" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/1118310/capsule_231x87.jpg"} alt="RetroArch" />
+    <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1118310/capsule_231x87.jpg"} alt="RetroArch" />
   </a>
 
 Do you want to know how I built this? Check my repo: https://github.com/vgarmes/steam-scraper

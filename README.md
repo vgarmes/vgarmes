@@ -20,7 +20,7 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am
     <img src="https://cdn.akamai.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"} alt="Papers, Please" />
   </a>
 
-Do you want to know how I built this? Check my repo: https://github.com/vgarmes/steam-scraper
+Do you want to know how I built this? Check my repo: https://github.com/vgarmes/my-steam
 
 ## Connect with Me
 

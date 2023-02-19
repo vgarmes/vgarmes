@@ -12,12 +12,12 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am
 
 ### 🎮 What I am playing right now on Steam!
 
-<a href="https://steamcommunity.com/app/1203710" target="_blank" style="text-decoration:none;">
+<a href="https://steamcommunity.com/app/304240" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/304240/capsule_231x87.jpg"} alt="Resident Evil" />
+  </a><a href="https://steamcommunity.com/app/1203710" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1203710/capsule_231x87.jpg"} alt="UnMetal" />
   </a><a href="https://steamcommunity.com/app/598550" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/598550/capsule_231x87.jpg"} alt="Huntdown" />
-  </a><a href="https://steamcommunity.com/app/239030" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/239030/capsule_231x87.jpg"} alt="Papers, Please" />
   </a>
 
 Do you want to know how I built this? Check my repo: https://github.com/vgarmes/my-steam

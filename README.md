@@ -12,12 +12,12 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am
 
 ### 🎮 What I am playing right now on Steam!
 
-<a href="https://steamcommunity.com/app/304240" target="_blank" style="text-decoration:none;">
+<a href="https://steamcommunity.com/app/277890" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.akamai.steamstatic.com/steam/apps/277890/capsule_231x87.jpg"} alt="Shantae: Risky's Revenge - Director's Cut" />
+  </a><a href="https://steamcommunity.com/app/304240" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.akamai.steamstatic.com/steam/apps/304240/capsule_231x87.jpg"} alt="Resident Evil" />
   </a><a href="https://steamcommunity.com/app/1794680" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.akamai.steamstatic.com/steam/apps/1794680/capsule_231x87.jpg"} alt="Vampire Survivors" />
-  </a><a href="https://steamcommunity.com/app/277890" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.akamai.steamstatic.com/steam/apps/277890/capsule_231x87.jpg"} alt="Shantae: Risky's Revenge - Director's Cut" />
   </a>
 
 Do you want to know how I built this? Check my repo: https://github.com/vgarmes/my-steam

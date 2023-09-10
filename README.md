@@ -15,7 +15,7 @@ I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am
 <a href="https://steamcommunity.com/app/764790" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/764790/capsule_184x69.jpg?t=1693327046"} alt="The Messenger" />
   </a><a href="https://steamcommunity.com/app/1794680" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/capsule_184x69.jpg?t=1692516839"} alt="Vampire Survivors" />
+    <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/capsule_184x69.jpg?t=1694073548"} alt="Vampire Survivors" />
   </a><a href="https://steamcommunity.com/app/976730" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/976730/capsule_184x69.jpg?t=1670458602"} alt="Halo: The Master Chief Collection" />
   </a>

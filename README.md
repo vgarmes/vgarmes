@@ -2,11 +2,10 @@
 
 I'm a self-taught Frontend Developer based in Copenhagen, 🇩🇰 Denmark. I am an 🎮 avid gamer, ☕️ coffee lover and 🏃🏻 casual runner
 
-## Technologies I'm learning in 2023
+## Technologies I'm learning in 2024
 
 - [ ] Three.js / React Three Fiber
-- [ ] React Native / Expo
-- [ ] GBDK / C (GameBoy development)
+- [ ] GameBoy ASM
 - [ ] Godot game engine
 - [ ] C#
 

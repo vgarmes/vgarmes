@@ -23,7 +23,8 @@ Do you want to know how I built this? Check my repo: https://github.com/vgarmes/
 
 ## Connect with Me
 
-- [Portfolio](https://vgarmes.github.io/portfolio/) <br/>
+- [Portfolio](https://vgarmes.github.io) <br/>
 - [Instagram](https://www.instagram.com/vgmestre) <br/>
 - [Linkedin](https://www.linkedin.com/in/vgmestre/) <br/>
-- [Twitter](https://twitter.com/vgmestre) <br/>
+- [Twitter](https://x.com/vgmestre) <br/>
+- [Bluesky](https://bsky.app/profile/vgmestre.bsky.social) <br/>
